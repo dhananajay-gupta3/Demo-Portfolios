@@ -1,0 +1,41 @@
+.nav{
+    display:   flow-root;
+    text-align: right;
+    background-color: rgb(8, 9, 9);
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    
+}
+.nav li{
+    display: inline-block;
+    padding: 10px 20px;
+    
+     
+}
+.nav .active{
+    
+    color: red;
+}
+.navlink{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(119, 119, 240);
+    text-decoration: none;
+}
+.navlink:hover{
+    color: rgb(254, 18, 203);
+}
+.logo{
+    position: absolute;
+    font-size: 40px;
+    font-weight: 600;
+    left: 9px;
+}
+.port{
+    color: blue;
+    text-decoration: none;
+}
+.port:hover{
+    color: rgb(245, 9, 241);
+}

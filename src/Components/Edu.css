@@ -1,0 +1,18 @@
+.maine{
+    color: white;
+}
+
+
+.h1{
+    text-align: center;
+    color: rgb(243, 240, 240);
+    font-size: 40px;
+    font-weight: 600;
+    
+}
+.h1:hover{
+    color: rgb(53, 242, 252);
+}
+.p{
+    font-size: 30px;
+}

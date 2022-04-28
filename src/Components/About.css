@@ -1,0 +1,52 @@
+.back{
+    background-color: black;
+    width:  100%;
+    margin-top: -19px;
+    bottom: 20px;
+}
+.h3{
+    color: #ffffff;
+    padding: 20px;
+}
+
+.name{
+    display:   flow-root;
+    text-align: start;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+}
+.name li{
+    display: inline-block;
+    padding: 10px 20px;
+}
+.name .active{
+    color: rgb(224, 252, 8);
+}
+.more{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(50, 6, 143);
+}
+.more:hover{
+    color: rgb(252, 12, 208);
+}
+.about{
+    background-color: rgb(9, 9, 9);
+    color: rgb(249, 246, 246);
+    border-radius: 5px;
+    border-color: blue;
+}
+.about:hover{
+    color: blue;
+    border-color: darkblue;
+}
+.no{
+    background-color: black;
+    height: 420px;
+}
+.cc{
+    text-align: center;
+    color: darkgrey;
+}
